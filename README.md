@@ -1,3 +1,5 @@
+This code is a part of MA334 - UG Dissertation in Mathematics course at the London School of Economics and Political Science. It was created by Zuzanna Palion, BSc Mathematics with Economics (Candidate Number: 15812)for the purposes of performing computational experiments within the topic "On Dyadic Fractional Packings of T-joins". 
+
 File Snarks.txt contains a list 195 snarks encoded line-by-line via graph6 format, readable by Python. It should be downloaded to a user's desktop and its file location path should be copied in the place of '/Users/zuzapalion/Desktop/Snarks.txt' in MA334_Code_15812 (line 4). 
 
 File MA334_Code_15812 is a Python notebook that requires SageMath 9.2 kernel available to run. 
